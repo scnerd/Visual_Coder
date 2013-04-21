@@ -1,0 +1,22 @@
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\bin\Debug\Visual Coder.exe
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\bin\Debug\Visual Coder.pdb
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.Form1.resources
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.Properties.Resources.resources
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual Coder.exe
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual Coder.pdb
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.FunctionNode.resources
+c:\Users\SCNerd\Documents\Visual Studio 2010\Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.ConstantNode.resources
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual Coder.exe
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual Coder.pdb
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.ConstantNode.resources
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.Form1.resources
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.FunctionNode.resources
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\Visual_Coder.Properties.Resources.resources
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\bin\Debug\Visual Coder.exe
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\Visual Coder\Visual Coder\bin\Debug\Visual Coder.pdb
